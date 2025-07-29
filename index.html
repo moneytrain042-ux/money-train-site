@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Money Train ($MT)</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Orbitron', sans-serif;
+      background: #000;
+      color: #fff;
+    }
+    header {
+      background: #1a1a1a;
+      padding: 20px;
+      text-align: center;
+      border-bottom: 2px solid #ffd700;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin: 0;
+    }
+    .tagline {
+      font-size: 1.2rem;
+      color: #ffd700;
+    }
+    section {
+      padding: 40px 20px;
+      text-align: center;
+    }
+    .about {
+      max-width: 800px;
+      margin: 0 auto;
+      font-size: 1.1rem;
+    }
+    .token-info {
+      background: #111;
+      padding: 20px;
+      border-radius: 10px;
+      display: inline-block;
+      margin-top: 20px;
+      border: 1px solid #444;
+    }
+    .cta {
+      margin-top: 30px;
+    }
+    .cta a {
+      text-decoration: none;
+      background: #ffd700;
+      color: #000;
+      padding: 12px 20px;
+      font-weight: bold;
+      border-radius: 8px;
+      transition: 0.3s;
+    }
+    .cta a:hover {
+      background: #fff200;
+    }
+    footer {
+      background: #1a1a1a;
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9rem;
+      border-top: 2px solid #ffd700;
+    }
+    .socials a {
+      color: #ffd700;
+      margin: 0 10px;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>🚂 Money Train</h1>
+    <div class="tagline">$MT – Bringing New Riders to Hedera</div>
+  </header>
+
+  <section>
+    <div class="about">
+      <p><strong>Money Train ($MT)</strong> is a community-driven token on the Hedera Hashgraph network. Our mission is simple: to onboard new users into the Hedera ecosystem and reward early believers with a fun, fair, and fast-moving token experience.</p>
+
+      <div class="token-info">
+        <p><strong>Token ID:</strong> 0.0.9455969</p>
+        <p><strong>Blockchain:</strong> Hedera Hashgraph</p>
+        <p><strong>Supply:</strong> Locked in Liquidity</p>
+      </div>
+
+      <div class="cta">
+        <a href="#">🚀 Buy Now</a>
+        <a href="https://t.me/MT_Moneytrain" target="_blank" style="margin-left: 10px;">📢 Join the Community</a>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="socials">
+      <!-- You can update these when ready -->
+      <a href="#">X (Twitter)</a> | 
+      <a href="https://t.me/MT_Moneytrain" target="_blank">Telegram</a> | 
+      <a href="#">Docs</a>
+    </div>
+    <p>© 2025 Money Train. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
