@@ -81,7 +81,9 @@
 
   <section>
     <div class="about">
-      <p><strong>Money Train ($MT)</strong> is a community-driven token on the Hedera Hashgraph network. Our mission is simple: to onboard new users into the Hedera ecosystem and reward early believers with a fun, fair, and fast-moving token experience.</p>
+      <p><strong>Money Train ($MT) Community Project Overview
+Money Train ($MT) is a community-operated token built on the Hedera Hashgraph network, designed to promote engagement and participation within the Hedera DeFi ecosystem. With a fixed maximum supply of 21,000 tokens, 20,000 have been securely locked in liquidity on the DaVinci platform to ensure stability and accessibility.
+The primary objective of the Money Train project is to raise awareness of the Hedera DeFi ecosystem among the general public and facilitate the onboarding of new users. This is achieved through strategic engagement across various social platforms, fostering a vibrant and inclusive community dedicated to advancing the adoption of decentralized finance on Hedera.</p>
 
       <div class="token-info">
         <p><strong>Token ID:</strong> 0.0.9455969</p>
